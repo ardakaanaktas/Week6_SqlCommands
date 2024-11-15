@@ -1,4 +1,4 @@
--- Active: 1730962993981@@127.0.0.1@5432@test
+-- Active: 1730931331699@@127.0.0.1@5432@postgres
 CREATE DATABASE test; -- Create a new database named test
 
 CREATE TABLE employees ( -- Create a new table named employees
